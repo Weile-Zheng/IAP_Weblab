@@ -1,4 +1,4 @@
-# MIT 6.9620 Web.Lab
+# MIT 6.9620 Web.Lab Resources
 
 ### JavaScript/HTML/CSS/NoSQL
 
